@@ -2,6 +2,7 @@ body {
     background-color: #F6F8F9;
     margin: 0 0;
     padding: 0 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 .box {
@@ -65,4 +66,10 @@ h2 {
 
 .button1, .button2 {
     font-size: 11px;
+}
+
+.freccia::after {
+    content: '\25BE';
+    font-size: 22px;
+    margin: 5px;
 }
