@@ -50,6 +50,15 @@ h2 {
 
 .button1 {
     margin-top: 20px;
-    margin-left: 57px;
+    margin-left: 50px;
+    height: 26px;
+    width: 69px;
 }
 
+
+.button2 {
+    margin-top: 20px;
+    margin-left: 5px;
+    height: 26px;
+    width: 85px;
+}
