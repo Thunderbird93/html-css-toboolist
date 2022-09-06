@@ -54,6 +54,10 @@ h2 {
     margin-left: 50px;
     height: 26px;
     width: 69px;
+    border-radius: 10%;
+    border-width: 0px;
+    background-color: #62ABEA;
+    color: white;
 }
 
 
@@ -62,6 +66,11 @@ h2 {
     margin-left: 5px;
     height: 26px;
     width: 85px;
+    border-radius: 10%;
+    border-width: 1px;
+    border-color: #C6CBCF;
+    background-color: white;
+    color: #C6CBCF;
 }
 
 .button1, .button2 {
@@ -119,4 +128,101 @@ h2 {
 
 h2 {
     padding-top: 20px;
+}
+
+.editorial {
+    display: inline-block;
+    height: 23px;
+    width: 56px;
+    background-color: #62A9E4;
+    border-radius: 10%;
+    border-width: 0px;
+    vertical-align: middle;
+}
+
+.editorial {
+    font-size: 10px;
+    font-display: auto;
+    color: white;
+    
+}
+
+.quno {
+    display: inline-block;
+    height: 23px;
+    width: 56px;
+    background-color: #9674DD;
+    border-radius: 10%;
+    border-width: 0px;
+    vertical-align: middle;
+}
+
+.quno {
+    font-size: 10px;
+    font-display: auto;
+    color: white;
+}
+
+.recruiting {
+    display: inline-block;
+    height: 23px;
+    width: 56px;
+    background-color: #7BBEAA;
+    border-radius: 10%;
+    border-width: 0px;
+    vertical-align: middle;
+}
+
+.recruiting {
+    font-size: 10px;
+    font-display: auto;
+    color: white;
+}
+
+.mobile {
+    display: inline-block;
+    height: 23px;
+    width: 56px;
+    background-color: #E6A24B;
+    border-radius: 10%;
+    border-width: 0px;
+    vertical-align: middle;
+}
+
+.mobile {
+    font-size: 10px;
+    font-display: auto;
+    color: white;
+}
+
+.website {
+    display: inline-block;
+    height: 23px;
+    width: 56px;
+    background-color: #C96A9F;
+    border-radius: 10%;
+    border-width: 0px;
+    vertical-align: middle;
+}
+
+.website {
+    font-size: 10px;
+    font-display: auto;
+    color: white;
+}
+
+.sales {
+    display: inline-block;
+    height: 23px;
+    width: 56px;
+    background-color: #B5C849;
+    border-radius: 10%;
+    border-width: 0px;
+    vertical-align: middle;
+}
+
+.sales {
+    font-size: 10px;
+    font-display: auto;
+    color: white;
 }
