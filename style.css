@@ -1,27 +1,39 @@
-* {
-    margin: 0 0;
-    padding: 0;
+body {
     background-color: #F6F8F9;
+    margin: 0 0;
+    padding: 0 0;
 }
-
 
 .box {
     height: 90px;
     width: auto;
-    background-color: #FFFFFF;
-} 
+    background-color: white;
+    margin: 0px 0px;
+    padding: 0px;
+}
 
-.tetto {
+.container-1 {
     height: 50px;
     width: auto;
-    background-color: #FFFFFF;
-    margin: 10px 100px;
+    background-color: white;
+   margin-top: 20px;
+   margin-left: 14%;
+   margin-right: 14%;
+   margin-bottom: 1px
+    border-radius: 5px 5px 0px 0px;
     
 }
 
-.casa {
-    height: 500px;
+.container-2 {
+    height: 470px;
     width: auto;
-    background-color: #FFFFFF;
-    margin: 10px 100px;
+    background-color: white;
+    margin: 3px 14%;
+
 }
+
+h2 {
+    margin: 0 0;
+}
+
+
