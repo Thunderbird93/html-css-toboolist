@@ -16,18 +16,18 @@ body {
     height: 50px;
     width: auto;
     background-color: white;
-   margin-top: 20px;
-   margin-left: 14%;
-   margin-right: 14%;
-   margin-bottom: 1px
-    border-radius: 5px 5px 0px 0px;
-    
+    margin-top: 20px;
+    margin-left: 14%;
+    margin-right: 14%;
+    margin-bottom: 1px
+    border-radius: 5px 5px 0px 0px; 
 }
+    
 
 .container-2 {
-    height: 470px;
-    width: auto;
-    background-color: white;
+        height: 470px;
+        width: auto;
+        background-color: white;
     margin: 3px 14%;
 
 }
