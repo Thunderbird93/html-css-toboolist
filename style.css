@@ -90,4 +90,24 @@ h2 {
     border-color: #7CBEAA;
     border-radius: 50%;
     border-width: 0.8px;
+    padding-left: 1px;
 }
+
+.no::after {
+    content: '\2715';
+    font-size: 11px;
+    font-weight: bold;
+    color: #D85041;
+    margin: 7px;
+
+}
+
+.no::after {
+    display: inline-block;
+    background-color: #7cbeaa00;
+    width: 11px;
+    border-style: solid;
+    border-color: #D85041;
+    border-radius: 50%;
+    border-width: 0.8px;
+    padding-left: 2px;
