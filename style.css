@@ -71,5 +71,5 @@ h2 {
 .freccia::after {
     content: '\25BE';
     font-size: 22px;
-    margin: 5px;
+    margin: 7px;
 }
